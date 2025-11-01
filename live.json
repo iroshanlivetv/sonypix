@@ -1,0 +1,27 @@
+[
+  {
+    "name": "SKY SPORTS F1 SD",
+    "url": "http://agh2019.xyz/live/SOFIANBENAISSA/X7KJL94/348306.m3u8",
+    "logo": "https://i.imgur.com/u5PmYte.jpeg"
+  },
+  {
+    "name": "HBO PLUS HD",
+    "url": "http://agh2019.xyz/live/SOFIANBENAISSA/X7KJL94/76263.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"
+  },
+  {
+    "name": "ITN",
+    "url": "https://edge2-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8",
+    "logo": "https://i.imgur.com/u5PmYte.jpeg"
+  },
+  {
+    "name": "Ada Derana 24",
+    "url": "https://edge3-moblive.yuppcdn.net/transsd/smil:addetv13.smil/playlist.m3u8",
+    "logo": "https://i.imgur.com/u5PmYte.jpeg"
+  },
+  {
+    "name": "Star Sports Select 1",
+    "url": "https://streamcdn.toffeelive.com/starsportsselect1.m3u8",
+    "logo": "https://i.imgur.com/u5PmYte.jpeg"
+  }
+]
